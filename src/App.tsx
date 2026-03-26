@@ -52,7 +52,12 @@ export default function App() {
           </nav>
 
           <div className="hidden md:flex items-center gap-4">
-            <a href="#" className="p-2 text-zinc-400 hover:text-zinc-900 transition-colors">
+            <a 
+              href="https://github.com/greenoceanplanet/CSS-SELECTOR-MASTER-" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="p-2 text-zinc-400 hover:text-zinc-900 transition-colors"
+            >
               <Github className="w-5 h-5" />
             </a>
             <button className="px-4 py-2 bg-zinc-900 text-white text-xs font-bold rounded-lg hover:bg-zinc-800 transition-all flex items-center gap-2">

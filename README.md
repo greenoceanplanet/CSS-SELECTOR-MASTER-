@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# CSS Selector Master
 
-# Run and deploy your AI Studio app
+CSS 지시자(Selector)를 쉽고 재미있게 배우고 실습할 수 있는 사이트입니다.
 
-This contains everything you need to run your app locally.
+## 🚀 바로 접속하기
+[CSS Selector Master 접속하기](https://css-selector-master-60947727858.us-west1.run.app/)
 
-View your app in AI Studio: https://ai.studio/apps/65dafdf7-a799-482c-bf7d-aea4ea38d681
+## 🛠️ 주요 기능
+- **이론 학습**: 태그, 클래스, 아이디 등 기초부터 고급 지시자까지 정리
+- **실습 놀이터**: 실시간 CSS 지시자 입력 및 매칭 요소 하이라이팅
+- **HTML 구조 시각화**: 코드상에서 요소의 위치를 직관적으로 파악
 
-## Run Locally
+## 🔗 GitHub 저장소
+[GitHub 바로가기](https://github.com/greenoceanplanet/CSS-SELECTOR-MASTER-)
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 💻 기술 스택
+- React 19
+- Tailwind CSS 4
+- Framer Motion
+- Lucide React
